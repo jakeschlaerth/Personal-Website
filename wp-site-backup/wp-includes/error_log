@@ -1,0 +1,10 @@
+[19-Nov-2018 19:14:30 America/Denver] PHP Fatal error:  Call to undefined function is_robots() in /home1/lindsbt7/public_html/jakeschlaerth/wp-includes/template-loader.php on line 28
+[13-Dec-2018 15:45:13 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/lindsbt7/public_html/jakeschlaerth/wp-includes/class-walker-nav-menu.php on line 17
+[08-Mar-2020 22:45:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/lindsbt7/public_html/jakeschlaerth/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-includes/locale.php on line 10
+[09-Mar-2020 07:10:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home2/lindsbt7/public_html/jakeschlaerth/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-includes/class-walker-nav-menu.php on line 17

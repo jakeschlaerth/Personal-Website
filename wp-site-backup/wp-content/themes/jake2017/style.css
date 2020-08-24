@@ -1,0 +1,440 @@
+/*
+Theme Name: JakeSchlaerth17
+Author: Lindsay Cherry
+Author URI: http://lindsaycherry.com
+Version: 1.0
+*/
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+©2015 Lindsay Cherry (http://lindsaycherry.com)
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* the basics */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%;
+	font-family: 'Abel', sans-serif;
+}
+
+body {
+	height: 100%;
+	background: #16161d;
+	background-size: cover;
+	color: #fff;
+	font-size: 18px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+h1 {
+	font-size: 32px;
+	font-family: 'Montserrat', sans-serif;	
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;	
+	margin-bottom: 30px;
+}
+
+h3 {
+	font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;	
+}
+
+p a {
+	color: #fff;
+	border-bottom: solid 2px #e8b80d;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	transition: color 0.5s ease;
+}
+
+	a:hover {
+		color: #e8b80d !important;
+	}
+
+	#main-menu li.active a, #main-menu li.current-page-ancestor a, body.post-type-archive-music-pieces li.menu-item-174 a {
+		color: #e8b80d;
+ 		padding-bottom: 10px;
+ 		position: relative;
+	}
+		#main-menu li.active a:before, #main-menu li.current-page-ancestor a:before, body.post-type-archive-music-pieces li.menu-item-174 a:before {
+		    content: "";
+		    position: absolute;
+		    width: 33%;
+		    height: 1px;
+		    bottom: 0;
+		    left: 0;
+		    border-bottom: solid 1px #e8b80d;
+		}
+
+	body.post-type-archive-music-pieces #mobile-menu li.menu-item-174 a {
+		border-bottom: none;
+		padding-bottom: 10px;
+	}
+
+.clear {
+	clear: both;
+}
+
+.wrap {
+	width: 80%;
+	margin: auto;
+	max-width: 1200px;
+}
+
+	.wrap.skew {
+		transform: rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(2deg);
+		margin-top: 40px;
+	}
+
+#content {
+	padding: 80px 0;
+}
+	
+	#content p {
+		margin-bottom: 20px;
+		line-height: 1.5em;
+	}
+
+#content .page a {
+	color: #fff;
+}
+
+	#content .page a:hover {
+		color: #e8b80d;
+		transition: color 0.5s ease;
+	}
+
+.page.with-menu .main-content {
+	width: 60%;
+	float: left;
+}
+
+	.page.with-menu .side-menu li {
+		list-style-type: none;
+	}
+
+		.page.with-menu .side-menu h3 {
+			border-bottom: solid 1px #16161d;
+			padding-bottom: 10px;
+		}
+
+		.page.with-menu .side-menu #menu-groups-menu li.menu-item {
+			padding-top: 15px;
+		}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+HEADER
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+header {
+	padding: 25px 0 50px;
+	border-top: solid 5px #e8b80d;
+	text-align: center;
+}
+
+	header a {
+		color: #fff;
+	}
+
+	.header-title h1 {
+		margin-bottom: 30px;
+		text-transform: uppercase;
+		letter-spacing: 2px;
+		font-size: 2.5em;
+	}
+
+	#main-menu {
+		margin-top: 15px;
+	}
+
+	.hide {
+		display: none;
+	}
+
+	.three {
+		display: none;
+	}
+
+	.sub-menu {
+		display: none;
+	}
+
+/* NAVIGATION */
+
+nav ul li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 30px;
+	font-size: 18px;
+	line-height: 2em;
+  	letter-spacing: 2px;
+  	font-family: 'Abel', sans-serif;
+  	text-decoration: uppercase;
+  	font-weight: 300;
+}
+
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+HOME PAGE
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+#home .page-header {
+	margin: 0 auto;
+	text-align: center;
+	height: 400px;
+}
+
+	.page-header img {
+		max-height: 600px;
+		width: auto;
+	}
+
+	.home #content {
+		padding: 80px 0;
+	}
+
+.main-content {
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+MUSIC
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+.cat-intro {
+	max-width: 650px;
+    margin: -50px auto 80px;
+}
+
+.music-piece {
+	max-width: 650px;
+	margin: 0 auto 80px;
+	padding: 30px;
+	border-top: solid 1px #e8b80d;
+	background: rgba(0,0,0,.4);
+}
+
+	.music-piece a {
+		color: #fff;
+	}
+
+	.single .event {
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+
+hr {
+	opacity: .4;
+	margin-bottom: 20px;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+PAGE STYLES
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+.featured-img {
+	max-width: 50%;
+	padding: 0 0 40px 40px;
+	float: right;
+}
+
+/* compositions */
+.page-template-composition-php h2 {
+	border-top: solid 1px #ccc;
+	padding-top: 20px;
+	margin: 50px auto 0 auto;
+	width: 70%;
+}
+
+/* groups */
+.page-template-menu-page-php h2 {
+	border-top: solid 1px #ccc;
+	padding-top: 20px;
+	margin: 0 0 20px 0;
+}
+
+/* blog */
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+SCHEDULE PAGE
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+.event-container {
+	width: 60%;
+	float: left;
+}
+
+	.event {
+		margin-bottom: 40px;
+		padding-bottom: 40px;
+		border-bottom: solid 1px rgba(0,0,0,.1);
+	}
+	.side-menu .event {
+		margin: 0;
+		padding: 20px 0;
+	}
+		.event h3 {
+			margin-bottom: 20px;
+		}
+		.side-menu .event h3 {
+			margin: 0;
+		}
+		.side-menu .event h4 {
+			font-weight: 400;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 300;
+		}
+	.side-menu h2 {
+		border-bottom: solid 1px #16161d;
+		padding-bottom: 10px;
+	}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+SIDEBARS
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+.side-menu {
+	width: 25%;
+	float: right;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+FOOTER
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+footer {
+	height: auto;
+	overflow: hidden;
+}
+
+	#footer-menu {
+		color: #fff;
+	}
+
+	.bg {
+		background: #16161d;
+		border-top: solid 3px #e8b80d;
+		width: 100%;
+		height: 150px;
+		position: relative;
+		top: 30px;
+		padding: 30px 0 50px 0;
+		transform: rotate(0deg) translateX(0px) translateY(0px) skewX(0deg) skewY(-2deg);
+	}
+
+	.social {
+		margin-top: 20px;
+	}
+
+	.social a {
+		opacity: .9;
+		transition: opacity 0.5s ease;
+	}
+		.social a i {
+			transition: all 0.5s ease;
+			margin-right: 10px;
+		}
+		.social a:hover {
+			opacity: 1;
+			transition: opacity 0.5s ease;
+		}
+/* ---------------------------------------------------------------------------------------------------------------------------------------
+MEDIA QUERIES
+--------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* tablet */
+@media screen and (max-width: 986px) {	
+
+	.header-title h1 {
+		font-size: 18px;
+		padding-top: 10px;
+		margin-bottom: 0;
+		text-align: right;
+	}
+
+	#main-menu {
+		display: none;
+	}
+
+	#content {
+		padding: 40px 0 40px;
+	}
+
+	.three {
+		display: inline-block;
+		font-size: 28px;
+		float: left;
+		margin-right: 25px;
+		font-family: 'Arial', sans-serif;
+	}
+
+	/* about */
+
+	.featured-img {
+		padding: 0 40px 40px 0;
+		max-width: 100%;
+	}
+
+	.event-container {
+		width: 100%;
+		float: none;
+	}
+
+	.side-menu {
+		display: none;
+	}
+
+	.page.with-menu .main-content {
+		width: 100%;
+		float: none;
+	}
+
+	.page-template-composition-php h2 {
+		width: 100%;
+	}
+
+	.cat-intro {
+		margin: 0 auto 80px;
+	}
+
+}
+
+/* mobile */
+@media screen and (max-width: 600px) {
+
+	.wrap {
+		width: 90%;
+	}
+
+	.filter li {
+		margin-bottom: 10px;
+	}
+
+	.featured-img {
+		padding: 0 0 40px 0;
+		max-width: 100%;
+		float: none;
+	}
+
+}

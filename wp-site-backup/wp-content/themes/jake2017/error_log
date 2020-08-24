@@ -1,0 +1,100 @@
+[07-Jan-2018 20:39:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[07-Jan-2018 20:39:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[06-Feb-2018 12:20:42 America/Denver] PHP Fatal error:  Call to undefined function bloginfo() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/footer.php on line 31
+[06-Feb-2018 12:20:43 America/Denver] PHP Fatal error:  Call to undefined function bloginfo() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/footer.php on line 31
+[02-Mar-2018 08:43:48 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[02-Mar-2018 08:43:49 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[23-Mar-2018 23:40:05 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[23-Mar-2018 23:40:05 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[25-Mar-2018 02:51:36 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[25-Mar-2018 02:51:37 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[25-Mar-2018 20:26:20 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[25-Mar-2018 20:26:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[11-Apr-2018 21:44:44 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[11-Apr-2018 21:44:44 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[12-Apr-2018 18:35:41 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[12-Apr-2018 18:35:42 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[06-May-2018 22:20:57 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[07-May-2018 05:32:09 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[09-Jul-2018 22:11:14 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[09-Jul-2018 22:11:14 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[09-Jul-2018 22:11:15 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[09-Jul-2018 22:11:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[09-Jul-2018 22:11:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[09-Jul-2018 22:11:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[09-Jul-2018 22:11:16 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[09-Jul-2018 22:11:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[23-Jul-2018 19:40:18 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[23-Jul-2018 19:40:18 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[23-Jul-2018 19:40:19 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[05-Dec-2018 20:34:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[06-Dec-2018 04:59:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[18-Dec-2018 00:40:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[18-Dec-2018 00:40:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[18-Dec-2018 00:40:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[18-Dec-2018 00:40:21 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[18-Dec-2018 00:40:21 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[18-Dec-2018 00:40:22 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[18-Dec-2018 00:40:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[18-Dec-2018 00:40:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[18-Dec-2018 00:40:23 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[18-Dec-2018 00:40:23 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[28-Jan-2019 08:59:15 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[28-Jan-2019 08:59:15 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/header.php on line 8
+[28-Jan-2019 08:59:16 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/archive.php on line 6
+[28-Jan-2019 08:59:17 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[01-Nov-2019 12:52:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[02-Nov-2019 19:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[03-Nov-2019 21:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[04-Nov-2019 15:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/index.php on line 6
+[18-Nov-2019 21:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[14-Dec-2019 08:12:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[16-Dec-2019 08:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[12-Jan-2020 08:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[15-Jan-2020 08:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[17-Apr-2020 20:30:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5
+[25-Apr-2020 16:08:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/jake2017/404.php on line 5

@@ -1,0 +1,1 @@
+[06-Jun-2018 08:29:59 America/Denver] PHP Fatal error:  Call to undefined function post_class() in /home1/lindsbt7/public_html/jakeschlaerth/wp-includes/theme-compat/embed-content.php on line 13

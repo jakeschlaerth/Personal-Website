@@ -1,0 +1,51 @@
+[05-Dec-2018 18:55:54 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/header.php on line 13
+[06-Dec-2018 02:01:35 America/Denver] PHP Fatal error:  Call to undefined function language_attributes() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/header.php on line 13
+[07-Dec-2018 15:08:21 America/Denver] PHP Notice:  Undefined index: wp_version in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php on line 42
+[07-Dec-2018 15:08:21 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php on line 43
+[07-Dec-2018 18:12:34 America/Denver] PHP Notice:  Undefined index: wp_version in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php on line 42
+[07-Dec-2018 18:12:34 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php on line 43
+[11-Dec-2018 12:12:41 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/404.php on line 10
+[05-Jan-2019 06:49:59 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/404.php on line 10
+[10-Feb-2019 22:39:14 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/404.php on line 10
+[14-Apr-2019 05:19:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/author.php on line 12
+[14-Apr-2019 08:48:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/author.php on line 12
+[14-Apr-2019 16:22:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/single.php on line 10
+[14-Apr-2019 19:49:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/single.php on line 10
+[05-May-2019 04:40:15 UTC] PHP Fatal error:  Call to undefined function do_action() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/featured-content.php on line 19
+[05-May-2019 12:58:20 UTC] PHP Fatal error:  Call to undefined function do_action() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/featured-content.php on line 19
+[15-May-2019 15:44:20 UTC] PHP Fatal error:  Call to undefined function get_sidebar() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/footer.php on line 17
+[21-May-2019 15:27:07 UTC] PHP Fatal error:  Call to undefined function get_sidebar() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/footer.php on line 17
+[22-May-2019 01:25:24 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content.php on line 13
+[22-May-2019 06:49:10 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content.php on line 13
+[24-May-2019 03:35:21 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-gallery.php on line 11
+[24-May-2019 09:30:47 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-gallery.php on line 11
+[25-May-2019 13:15:57 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-video.php on line 11
+[25-May-2019 18:34:51 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-video.php on line 11
+[26-May-2019 08:52:30 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_metadata() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/image.php on line 11
+[26-May-2019 14:12:42 UTC] PHP Fatal error:  Call to undefined function wp_get_attachment_metadata() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/image.php on line 11
+[03-Jun-2019 21:16:29 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-featured-post.php on line 11
+[03-Jun-2019 23:22:28 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-featured-post.php on line 11
+[04-Jun-2019 06:51:47 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-featured-post.php on line 11
+[04-Jun-2019 08:27:10 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-featured-post.php on line 11
+[05-Jun-2019 01:00:58 UTC] PHP Fatal error:  Call to undefined function _e() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-none.php on line 12
+[05-Jun-2019 15:54:26 UTC] PHP Fatal error:  Call to undefined function _e() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-none.php on line 12
+[05-Jun-2019 20:15:56 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-page.php on line 11
+[05-Jun-2019 21:54:22 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-page.php on line 11
+[06-Jun-2019 09:23:27 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/sidebar-content.php on line 10
+[09-Jun-2019 05:15:10 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/sidebar-footer.php on line 10
+[09-Jun-2019 06:53:59 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/sidebar-footer.php on line 10
+[09-Jun-2019 12:03:55 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/index.php on line 17
+[09-Jun-2019 13:59:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/index.php on line 17
+[09-Jun-2019 19:58:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/index.php on line 17
+[10-Jun-2019 00:54:42 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-image.php on line 11
+[10-Jun-2019 02:32:30 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/content-image.php on line 11
+[10-Jun-2019 19:23:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/category.php on line 12
+[10-Jun-2019 20:51:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/category.php on line 12
+[11-Jun-2019 08:16:27 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/comments.php on line 16
+[14-Jun-2019 00:45:00 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/comments.php on line 16
+[14-Jun-2019 07:01:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/archive.php on line 20
+[14-Jun-2019 09:55:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home1/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/archive.php on line 20
+[11-Dec-2019 12:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php:43
+Stack trace:
+#0 {main}
+  thrown in /home2/lindsbt7/public_html/jakeschlaerth/wp-content/themes/twentyfourteen/functions.php on line 43

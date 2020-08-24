@@ -1,0 +1,128 @@
+body {
+  overflow-x: hidden;
+}
+
+#top_title {
+    padding-top: 30px;
+    width:100%;
+    text-align: center;
+    font-size: 36px;
+    z-index: 2;
+}
+
+#top_subtitle {
+    width:100%;
+    text-align: center;
+    font-size: 24px;
+    z-index: 2;
+}
+
+.logo {   
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 75px;
+    z-index: 99;
+}
+
+a {
+    color: black;
+}
+
+.topholder {
+  height: 100vh;
+  background-color: gainsboro; 
+}
+
+.introholder {
+  padding-top: 30px;
+  
+}
+
+.desker {
+  margin: 0 auto;
+  width: 50%;
+  
+}
+
+.deskholder {
+  width: 100%;
+  position: relative;
+  text-align: center;
+  /* padding-top: 10%; */
+}
+.parallax {
+    /* The image used */
+    background-image: url("pix/scotland_mountains.jpg");
+  
+    /* Set a specific height */
+    min-height: 900px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #parallax1 {
+    background-image: url("pix/armonica.png");
+    background-size: contain;
+  }
+
+  #parallax2 {
+    background-image: url("pix/programming.jpg");
+  }
+
+  #parallax3 {
+    background-image: url("pix/push.jpg");
+  }
+
+  #hi {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+  }
+
+  #about_me_blurb {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    text-align: center;
+  }
+
+  #about_me { 
+    min-height: 100%;
+  }
+
+  #expo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #robot_blurb {
+    margin-top: 4%;
+  }
+
+  #myRecentWork {
+      text-align: center;
+  }
+  #tile_master {
+      margin-top: 3%;
+  }
+
+  #PURFblurb {
+      margin-top: 5%;
+  }
+
+#tech {
+  
+}
+#bandcampholder {
+  padding-left: 30px;
+}
+  @media only screen and (min-width: 900px) {
+    #parallax1 {
+      background-size: 1000px;
+    }
+  }
